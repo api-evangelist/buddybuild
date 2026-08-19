@@ -36,7 +36,7 @@ x-enrichment-note: 'Enrichment pipeline 2026-07-18: no live provider surface. bu
   Apple (17.253.142.4) and redirects to developer.apple.com/xcode-cloud/. No first-party OpenAPI, SDK,
   packages, well-known, MCP, or docs found; npm buddybuild-client/bbenv are third-party. No artifacts
   fabricated.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
